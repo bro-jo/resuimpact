@@ -1,0 +1,36 @@
+{
+  "name": "resuimpact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "less": "^3.9.0",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export -o docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bro-jo/resuimpact.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bro-jo/resuimpact/issues"
+  },
+  "homepage": "https://github.com/bro-jo/resuimpact#readme"
+}
